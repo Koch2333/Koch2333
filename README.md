@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Koch2333,you can call me koch or ～～kaochi～～.Nice to meet you!
 
 <!--
 **Koch2333/Koch2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Chinese / 17 y.o. / Not a very mature boy / ENTJ-A
+- 🌍 zh-CN / en-US (little) / Teochew (?)
+- 📖 A senior high school student.
+- 🌱 Studying programming language.
+- 📱 Also a digital enthusiast.
+- 📷 Like to take some photos
+- 🎮 Poor skills in games
