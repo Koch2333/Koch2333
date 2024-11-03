@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Koch2333,you can call me koch or ～～kaochi～～.Nice to meet you!
+## Hi there 👋 I'm Koch2333,you can call me koch or ~~kaochi~~.Nice to meet you!
 
 <!--
 **Koch2333/Koch2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
