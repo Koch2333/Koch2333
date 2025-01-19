@@ -1,0 +1,22 @@
+{
+  "name": "koch2333.myself",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vicons/fa": "^0.13.0",
+    "naive-ui": "^2.41.0",
+    "typescript": "^5.7.3",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "unocss": "^65.4.2",
+    "vite": "^6.0.5"
+  }
+}
