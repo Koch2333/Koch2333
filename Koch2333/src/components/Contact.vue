@@ -1,19 +1,28 @@
 <script setup>
 import { NIcon, NSpace } from 'naive-ui'
 import { Github, Telegram, Twitter } from '@vicons/fa'
+import { EmailRound } from '@vicons/material'
 </script>
 
 <template>
-  <n-space justify="start">
-    <n-icon size="32">
-      <a href="https://github.com/Koch2333" target="_blank"><Github />
-      </a>
-      <a href="https://t.me/@Koch2333" target="_blank"><Telegram />
-      </a>
-      <a href="https://x.com/koch2333" target="_blank">
+  <h2>Contact me</h2>
+  <n-space justify="center">
+    <a href="https://github.com/Koch2333" target="_blank" class="text-inherit no-underline hover:opacity-80">
+      <n-icon size="32">
+      <Github />
+      </n-icon></a>
+    <a href="mailto:Koch233333@gmail.com" class="text-inherit no-underline hover:opacity-80">
+      <n-icon size="32">
+        <EmailRound />
+      </n-icon></a>
+      <a href="https://t.me/@Koch2333" target="_blank" class="text-inherit no-underline hover:opacity-80">
+        <n-icon size="32">
+          <Telegram />
+        </n-icon></a>
+      <a href="https://x.com/koch2333" target="_blank" class="text-inherit no-underline hover:opacity-80">
+        <n-icon size="32">
         <Twitter />
-      </a>
-    </n-icon>
+        </n-icon></a>
   </n-space>
 </template>
 

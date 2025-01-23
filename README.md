@@ -16,7 +16,6 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/365893737)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Koch233333@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/koch2333)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/9V85DhjG)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Koch2333)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199076947625/)
 
@@ -42,3 +41,8 @@
 ![Redmi K40 Pro](https://img.shields.io/badge/Redmi%20K40%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Apple MacBook Pro 13" 2020](https://img.shields.io/badge/Apple%20MacBook%20Pro%2013%22%202020-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Lenovo Yoga 14c 2021](https://img.shields.io/badge/Lenovo%20Yoga%2014c%202021-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
+
+My OpenPGP Public Key is available on `keys.openpgp.org`, if needed, you can use it to message me.
+```bash
+$ gpg --keyserver hkps://keys.openpgp.org/ --recv-keys 083D616B77312866DF92520772855C0BC2F991F3
+```
