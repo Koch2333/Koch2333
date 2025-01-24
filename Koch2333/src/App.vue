@@ -3,7 +3,7 @@
     <n-layout>
       <HelloWorld msg="Koch2333" />
       <Contact />
-      <PGPKey />
+        <PGPKey />
     </n-layout>
   </n-config-provider>
 </template>
@@ -38,5 +38,10 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* 使用 UnoCSS */
+@media screen and (max-width: 768px)
+{
+  :root{
+    display: block;
+  }
+}
 </style>
