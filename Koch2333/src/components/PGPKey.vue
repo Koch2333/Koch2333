@@ -16,7 +16,7 @@ import { NCard, NCode } from 'naive-ui'
   </div>
 </template>
 
-<style scoped>
+<style>
 
 .code-container {
   max-height: 300px;
@@ -35,10 +35,5 @@ import { NCard, NCode } from 'naive-ui'
 
 .code-container::-webkit-scrollbar-track {
   background: transparent;
-}
-@media (prefers-color-scheme: dark) {
-  .code-container {
-    background-color: #1a1a1a;
-  }
 }
 </style>
