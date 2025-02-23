@@ -26,9 +26,12 @@
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+[![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 
 ### Other
-- Senior high school courses😡
+- Senior high school courses😡I hate it
 
 ## Using OS
 ![Android 14](https://img.shields.io/badge/Android%2014-3DDC84?logo=android&logoColor=white)
@@ -41,6 +44,7 @@
 ![Redmi K40 Pro](https://img.shields.io/badge/Redmi%20K40%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Apple MacBook Pro 13" 2020](https://img.shields.io/badge/Apple%20MacBook%20Pro%2013%22%202020-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Lenovo Yoga 14c 2021](https://img.shields.io/badge/Lenovo%20Yoga%2014c%202021-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
+
 
 My OpenPGP Public Key is available on `keys.openpgp.org`, if needed, you can use it to message me.
 ```bash
