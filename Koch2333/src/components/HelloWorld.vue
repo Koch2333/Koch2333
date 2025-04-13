@@ -7,7 +7,7 @@ defineProps({
 
 <template>
   <div class="md:flex">
-    <a href="https://x.com/to0699/status/1686300087507664897?t=rBIo0MhK21JLJluI40SQlg&s=19" target="_blank">
+    <a href="https://koch2333.cn/avatarsource" target="_blank">
       <n-avatar src="https://koch2333.cn/avatar.jpg" class="size-48 " round>
       </n-avatar></a>
   <div class="m-1 text-left leading-4 md:shrink-0">
