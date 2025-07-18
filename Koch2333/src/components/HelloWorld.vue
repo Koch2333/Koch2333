@@ -7,8 +7,8 @@ defineProps({
 
 <template>
   <div class="md:flex">
-    <a href="https://koch2333.cn/avatarsource" target="_blank">
-      <n-avatar src="https://koch2333.cn/avatar.jpg" class="size-48 " round>
+    <a href="https://koch2333.cn//redirect/avatar" target="_blank">
+      <n-avatar src="https://assets.koch2333.cn/avatar.webp" class="size-48" round>
       </n-avatar></a>
   <div class="m-1 text-left leading-4 md:shrink-0">
         <h2>{{msg}}</h2>
