@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # 监控仓库根目录中的 GitHub Actions 工作流程版本
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      # 每周检查一次更新
+      interval: "weekly"
+
+  # 监控 Vue 项目（位于 Koch2333 目录）中 npm 依赖的版本更新
+  - package-ecosystem: "npm"
+    directory: "/Koch2333"
+    schedule:
+      # 每周检查一次 npm 更新
+      interval: "weekly"
