@@ -4,6 +4,7 @@
       <HelloWorld msg="Koch2333" />
       <Contact />
         <PGPKey />
+      <footer />
     </n-layout>
   </n-config-provider>
 </template>
@@ -14,12 +15,14 @@ import {computed, defineComponent} from "vue";
 import HelloWorld from './components/HelloWorld.vue';
 import Contact from './components/Contact.vue';
 import PGPKey from './components/PGPKey.vue';
+import footer from './components/footer.vue';
 
 export default defineComponent({
   components: {
     HelloWorld,
     Contact,
     PGPKey,
+    footer,
     NConfigProvider
   },
   setup() {

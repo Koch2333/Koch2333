@@ -1,5 +1,6 @@
 <script setup>
 import { NCard, NCode } from 'naive-ui'
+const commitId = __APP_COMMIT_HASH__;
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import { NCard, NCode } from 'naive-ui'
       </div>
     </n-card>
   </div>
+  <div>Built with love, Build ID: Git@{{ commitId }}.</div>
 </template>
 
 <style>
