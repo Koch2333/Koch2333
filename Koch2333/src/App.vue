@@ -1,50 +1,43 @@
 <template>
   <n-config-provider :theme="theme">
     <n-layout>
-      <HelloWorld msg="Koch2333" />
-      <Contact />
+      <n-layout-content>
+        <HelloWorld msg="Koch2333" />
+        <Contact />
         <PGPKey />
-      <footer />
+        <p class="build-id">Built with love, Build ID: Git@{{ commitId }}.</p>
+      </n-layout-content>
     </n-layout>
   </n-config-provider>
 </template>
 
-<script>
-import {darkTheme, useOsTheme, NConfigProvider} from "naive-ui";
-import {computed, defineComponent} from "vue";
-import HelloWorld from './components/HelloWorld.vue';
-import Contact from './components/Contact.vue';
-import PGPKey from './components/PGPKey.vue';
-import footer from './components/footer.vue';
+<script setup>
+import { computed } from 'vue'
+import { useOsTheme, darkTheme, NConfigProvider, NLayout, NLayoutContent } from 'naive-ui'
 
-export default defineComponent({
-  components: {
-    HelloWorld,
-    Contact,
-    PGPKey,
-    footer,
-    NConfigProvider
-  },
-  setup() {
-    // 获取操作系统主题
-    const osThemeRef = useOsTheme();
+import HelloWorld from './components/HelloWorld.vue'
+import Contact from './components/Contact.vue'
+import PGPKey from './components/PGPKey.vue'
 
-    // 根据操作系统主题设置 Naive UI 主题
-    const theme = computed(() => osThemeRef.value === "dark" ? darkTheme : null);
+const commitId = __APP_COMMIT_HASH__
 
-    return {
-      theme,
-      osTheme: osThemeRef
-    };
-  }
-});
+// 根据系统主题设置 Naive UI 主题
+const osTheme = useOsTheme()
+const theme = computed(() => (osTheme.value === 'dark' ? darkTheme : null))
 </script>
 
 <style scoped>
-@media screen and (max-width: 768px)
-{
-  :root{
-    display: block;
+
+.build-id {
+  margin-top: 12px;
+  opacity: 0.8;
+  font-size: 14px;
+}
+
+/* 移动端优化 */
+@media screen and (max-width: 768px) {
+  .n-layout-content {
+    padding: 16px;
   }
 }
 </style>
