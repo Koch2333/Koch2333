@@ -1,5 +1,4 @@
 <script setup>
-import { NAvatar, } from 'naive-ui'
 defineProps({
   msg: String,
 })

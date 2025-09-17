@@ -1,5 +1,4 @@
 <script setup>
-import { NIcon, NSpace } from 'naive-ui'
 import { Github, Telegram, Twitter } from '@vicons/fa'
 import { EmailRound } from '@vicons/material'
 </script>
