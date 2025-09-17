@@ -1,5 +1,5 @@
 <script setup>
-import { NCard, NCode } from 'naive-ui'
+
 </script>
 
 <template>

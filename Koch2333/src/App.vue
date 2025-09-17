@@ -14,7 +14,6 @@
 <script setup>
 import { computed } from 'vue'
 import { useOsTheme, darkTheme, NConfigProvider, NLayout, NLayoutContent } from 'naive-ui'
-
 import HelloWorld from './components/HelloWorld.vue'
 import Contact from './components/Contact.vue'
 import PGPKey from './components/PGPKey.vue'
