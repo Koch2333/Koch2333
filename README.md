@@ -3,7 +3,7 @@
 #### I'm Koch2333,you can call me koch or ~~kaochi~~.
 
 ## Self introduction
-- Chinese / 17 y.o. / Not a very mature boy / ENTJ-A
+- Chinese / 18 y.o. / Not a very mature boy / ENTJ-A
 - 🌍 zh-CN / en-US (little) / Teochew (?)
 - 📖 A senior high school student.
 - 🌱 Studying programming language.
@@ -17,7 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Koch233333@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/koch2333)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Koch2333)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199076947625/)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/Koch2333/)
 
 ## 🌱 Studying
 ### Programming Language 
@@ -42,7 +42,6 @@
 ## Devices in use
 
 ![OnePlus Ace 5](https://img.shields.io/badge/OnePlus%20Ace%205-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![Xiaomi Mi Mix 2s](https://img.shields.io/badge/Xiaomi%20Mi%20Mix%202s-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Apple MacBook Pro 13" 2020](https://img.shields.io/badge/Apple%20MacBook%20Pro%2013%22%202020-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Lenovo Yoga 14c 2021](https://img.shields.io/badge/Lenovo%20Yoga%2014c%202021-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 
