@@ -8,6 +8,7 @@
 - 📖 A senior high school student.
 - 🌱 Studying programming language.
 - 📱 Also a digital enthusiast.
+- ✨ Hope to make some contributions to the open-source community.
 - 📷 Like to take some photos.
 - 🎮 Poor skills in games.
 - 💬 You can ask me anything except politics and privacy.
