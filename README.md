@@ -35,7 +35,7 @@
 - Senior high school courses😡I hate it
 
 ## Using OS
-![Android 16](https://img.shields.io/badge/Android%2015-3DDC84?logo=android&logoColor=white)
+![Android 16](https://img.shields.io/badge/Android%2016-3DDC84?logo=android&logoColor=white)
 ![Debian 12](https://img.shields.io/badge/Debian%2012-A81D33?logo=debian&logoColor=fff)
 ![macOS Sequoia](https://img.shields.io/badge/macOS%20Sequoia-000000?logo=apple&logoColor=F0F0F0)
 ![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white)
