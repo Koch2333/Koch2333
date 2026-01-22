@@ -51,3 +51,7 @@ My OpenPGP Public Key is available on `keys.openpgp.org`, if needed, you can use
 ```bash
 $ gpg --keyserver hkps://keys.openpgp.org/ --recv-keys 083D616B77312866DF92520772855C0BC2F991F3
 ```
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koch2333)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Koch2333)](https://github.com/anuraghazra/github-readme-stats)
