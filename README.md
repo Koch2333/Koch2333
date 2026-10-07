@@ -44,6 +44,7 @@
 
 ![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![OnePlus Ace 5](https://img.shields.io/badge/OnePlus%20Ace%205-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![Asus TX Gaming 6 Pro](https://img.shields.io/badge/Asus%20TX%20Gaming%206%20Pro%20-000000?style=flat-square&logo=asus&logoColor=ffffff)
 ![Apple MacBook Pro 13" 2020](https://img.shields.io/badge/Apple%20MacBook%20Pro%2013%22%202020-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Lenovo Yoga 14c 2021](https://img.shields.io/badge/Lenovo%20Yoga%2014c%202021-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)
 
